@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "barrier-render",
+    "name": "Barrier Renderer",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "dyspore.cc"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
